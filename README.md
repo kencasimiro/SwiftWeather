@@ -6,7 +6,7 @@ Able to see the weather details for a city using the Dark Sky API
 
 User is able to search for a city and see the weather forcast for the week.
 
-![alt text](https://imgur.com/jFqlJIY "Screenshot of the app main interface")
+![alt tag](https://raw.githubusercontent.com/wuwukennywu/SwiftWeather/master/Screenshot/Screen%20Shot%202018-07-28%20at%202.32.11%20PM.png)
 
 
 
